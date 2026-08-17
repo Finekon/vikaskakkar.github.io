@@ -64,3 +64,10 @@ html[data-theme='dark'] {
   --global-danger-block-text: #ffb9b9;
   --global-danger-block-title: #ffe0e0;
 }
+
+/* Force readable text on the journal badges regardless of variable resolution */
+.publications ol.bibliography li .abbr abbr,
+.publications ol.bibliography li .abbr abbr a {
+  color: #ffffff !important;
+}nger-block-title: #ffe0e0;
+}
