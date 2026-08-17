@@ -1,0 +1,9 @@
+:root {
+  --global-theme-color: #b30000;
+  --global-hover-color: #8a0000;
+}
+
+html[data-theme='dark'] {
+  --global-theme-color: #ff6b6b;
+  --global-hover-color: #ff8f8f;
+}
