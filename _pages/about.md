@@ -31,6 +31,6 @@ Vikas Kakkar is an Associate Professor of Economics and Finance at City Universi
 
 He holds a Ph.D. in Economics from the University of Rochester and a Bachelor of Statistics from the Indian Statistical Institute, and is a Chartered Financial Analyst (CFA).
 
-An applied economist, Prof. Kakkar specializes in international finance, behavioral economics, financial literacy, cryptocurrencies, and climate economics. His research has appeared in the *Review of Economics and Statistics*, the *Journal of International Economics*, and the *Journal of Money, Credit and Banking*, among others. He has held visiting appointments at the University of Notre Dame, the University of Southern California, Keio University, IIM Bangalore, ITAM, and the Bank of Finland.
+An applied economist, Prof. Kakkar specializes in international finance, behavioral economics, and financial literacy. His research has appeared in the *Review of Economics and Statistics*, the *Journal of International Economics*, and the *Journal of Money, Credit and Banking*, among others. He has held visiting appointments at the University of Notre Dame, the University of Southern California, Keio University, IIM Bangalore, ITAM, and the Bank of Finland.
 
 Outside academia, he finds balance through yoga, karaoke, and photography.
