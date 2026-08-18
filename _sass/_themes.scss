@@ -70,3 +70,10 @@ html[data-theme='dark'] {
 .publications ol.bibliography li .abbr abbr a {
   color: #ffffff !important;
 }
+
+/* Section headings: spacing + underline for clear boundaries */
+.post h2 {
+  margin-top: 3rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--global-divider-color);
+}
