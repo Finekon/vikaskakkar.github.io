@@ -13,8 +13,6 @@ International finance and real exchange rates; behavioral economics; financial l
 
 ## publications
 
-{% include bib_search.liquid %}
-
 <div class="publications">
 
 {% bibliography %}
