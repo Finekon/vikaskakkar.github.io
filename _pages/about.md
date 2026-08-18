@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.cb.cityu.edu.hk/ef/'>Department of Economics and Finance</a>, City University of Hong Kong
 
