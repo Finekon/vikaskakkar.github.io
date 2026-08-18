@@ -77,3 +77,18 @@ html[data-theme='dark'] {
   padding-bottom: 0.4rem;
   border-bottom: 1px solid var(--global-divider-color);
 }
+
+/* Crimson star marks flanking the name on the about page */
+.post:has(.profile) h1::before {
+  content: "✶ ";
+  color: var(--global-theme-color);
+  font-size: 0.75em;
+  vertical-align: 0.08em;
+}
+
+.post:has(.profile) h1::after {
+  content: " ✶";
+  color: var(--global-theme-color);
+  font-size: 0.75em;
+  vertical-align: 0.08em;
+}
