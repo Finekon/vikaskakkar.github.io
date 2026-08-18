@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /photography/
+title: photography
 description: The world, through my lens
 nav: true
 nav_order: 4
