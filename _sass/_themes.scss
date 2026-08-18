@@ -78,17 +78,16 @@ html[data-theme='dark'] {
   border-bottom: 1px solid var(--global-divider-color);
 }
 
-/* Crimson star marks flanking the name on the about page */
-.post:has(.profile) h1::before {
-  content: "✶ ";
-  color: var(--global-theme-color);
-  font-size: 0.75em;
-  vertical-align: 0.08em;
-}
-
+/* Logo marks flanking the name on the about page */
+.post:has(.profile) h1::before,
 .post:has(.profile) h1::after {
-  content: " ✶";
-  color: var(--global-theme-color);
-  font-size: 0.75em;
-  vertical-align: 0.08em;
+  content: "";
+  display: inline-block;
+  width: 0.62em;
+  height: 0.62em;
+  background-image: url("/assets/img/favicon.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 0 0.3em;
+  vertical-align: 0.03em;
 }
